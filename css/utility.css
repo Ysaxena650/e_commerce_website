@@ -1,0 +1,92 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+
+.flex{
+    display: flex;
+}
+
+.align-items{
+    align-items: center;
+}
+
+.justify-content{
+    justify-content: center;
+}
+
+.invert{
+    filter: invert(1);
+}
+
+.bg-grey{
+    background-color: #121212;
+    color: white;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.border-radius{
+    border-radius: 10px;
+}
+
+.mt-1{
+    margin-top: 5px;
+}
+
+.p-1{
+    
+        padding: 20px;
+           
+}
+
+.font-family{
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.bg-black{
+    background-color: #121212;
+}
+
+.border{
+    border: 2px solid black;
+}
+
+.sans-sarif{
+    font-family: sans-serif;
+}
+
+.bg-green{
+    background-color: #38CB89;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.white{
+    color: white;
+}
+
+.column{
+    flex-direction: column;
+}
+
+.space-evenly{
+    justify-content: space-evenly;
+}
+
+.block{
+
+    display: block;
+}
+
+.none{
+    display: none;
+}
