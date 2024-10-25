@@ -12,7 +12,7 @@ let head=document.querySelector(".headbar");
 
 let zidx=10;
 
-let arr=['../ecommerce-webapp/jpgs/furr.jpg','../ecommerce-webapp/jpgs/furr2.jpg','../ecommerce-webapp/jpgs/furr3.jpg'];
+let arr=['furr.jpg','furr2.jpg','furr3.jpg'];
 let i=0;
       
 
